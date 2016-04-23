@@ -1,4 +1,4 @@
-name: Passion
+name: TEST
 favicon: null
 layout_spectrum: 0.9659498
 typography_spectrum: 0.3351254
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1621301
-  lightness: 0.6132485
-  saturation: 0.1204037
-  rhythmicContrast: 0.606235
+    - '#e2dce8'
+    - '#132529'
+    - '#a4a4ac'
+    - '#e0833d'
+    - '#616b6c'
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
