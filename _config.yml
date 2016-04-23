@@ -1,0 +1,14 @@
+layout_spectrum: 0.9659498
+typography_spectrum: 0.3351254
+color:
+  saturation: 0.1204037
+  lightness: 0.6132485
+  brandStrength: 0.1621301
+  rhythmicContrast: 0.606235
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Passion
