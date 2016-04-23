@@ -1,14 +1,28 @@
+name: Passion
+favicon: null
 layout_spectrum: 0.9659498
 typography_spectrum: 0.3351254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1204037
-  lightness: 0.6132485
-  brandStrength: 0.1621301
-  rhythmicContrast: 0.606235
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: Passion
+  brandStrength: 0.1621301
+  lightness: 0.6132485
+  saturation: 0.1204037
+  rhythmicContrast: 0.606235
+purpose: []
