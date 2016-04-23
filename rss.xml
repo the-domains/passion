@@ -4,7 +4,7 @@
         <description><![CDATA[TEST]]></description>
         <link>https://thegrid.ai/passion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 18:37:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/passion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/passion/5d8ed6cc-2336-40cf-8eea-b25300cd5da9/index.html</link>
             <guid isPermaLink="false">5d8ed6cc-2336-40cf-8eea-b25300cd5da9</guid>
             <pubDate>Sat, 23 Apr 2016 18:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d65dd6ca-63fd-4706-9555-194693fe9101.jpg">]]></description>
+            <link>https://thegrid.ai/passion/84dc4401-74ec-47ab-8a87-4db0bbc9a4c2/index.html</link>
+            <guid isPermaLink="false">84dc4401-74ec-47ab-8a87-4db0bbc9a4c2</guid>
+            <pubDate>Sat, 23 Apr 2016 18:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
