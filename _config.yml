@@ -1,28 +1,40 @@
-name: TEST
 favicon: null
-layout_spectrum: 0.22067
-typography_spectrum: 0.3351254
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TEST
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.25
+  brandStrength: 0.3125
+  rhythmicContrast: 0.5
   brandColors:
     - '#e2dce8'
     - '#132529'
     - '#a4a4ac'
     - '#e0833d'
     - '#616b6c'
-  brandStrength: 0.3125
   lightness: 0.6875
-  saturation: 0.25
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.1487455
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.22067
+analytics:
+  twitter: null
+  google: null
+  facebook: null
